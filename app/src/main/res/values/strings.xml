@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="app_database">app_database</string>
+    <string name="enter_quote">Enter quote</string>
+    <string name="add_quote">Add quote</string>
+    <string name="error">Error: %1$s</string>
+    <string name="delete">Delete</string>
+</resources>
