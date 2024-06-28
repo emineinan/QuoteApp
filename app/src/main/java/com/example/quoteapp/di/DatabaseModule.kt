@@ -29,7 +29,7 @@ object DatabaseModule {
     }
 
     @Provides
-    fun provideInspirationalQuoteDao(database: QuoteDatabase): QuoteDao {
+    fun provideQuoteDao(database: QuoteDatabase): QuoteDao {
         return database.quoteDao()
     }
 }
