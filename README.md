@@ -13,4 +13,4 @@ The QuoteApp built with Jetpack Compose is a sample app that contains the Room D
   </tr>
  </table>
 
-
+You can check the article on [Medium](https://medium.com/huawei-developers/how-to-use-room-database-with-hilt-in-jetpack-compose-56a39c821b38) for a detailed explanation.
