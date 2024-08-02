@@ -1,18 +1,11 @@
 # QuoteApp
 The QuoteApp built with Jetpack Compose is a sample app that contains the Room Database and Hilt.
 
-## Preview
+## Preview 👀
+![5](https://github.com/user-attachments/assets/e56f744b-dd22-4e11-977f-712993264048)
 
- <table>
-  <tr>
-    <td> <b> Quote Screen </b> </td>
-  </tr>
- 
-  <tr>
-  <td valign="top"><img src=https://github.com/user-attachments/assets/6f2325d1-66d0-40fc-b547-8d6bc83f608e<br>
-  </tr>
- </table>
-
-You can check the article on [Medium](https://medium.com/huawei-developers/how-to-use-room-database-with-hilt-in-jetpack-compose-56a39c821b38) for a detailed explanation.
-
+ ## Articles 📜
+ For a detailed explanation, you can check my articles on Medium:
+ - [How to Use Room Database with Hilt in Jetpack Compose?](https://medium.com/huawei-developers/how-to-test-room-database-in-jetpack-compose-6520930e67f5)
+ - [How to Test Room Database in Jetpack Compose?](https://medium.com/huawei-developers/how-to-test-room-database-in-jetpack-compose-6520930e67f5)
 
